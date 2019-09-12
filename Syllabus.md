@@ -5,7 +5,6 @@
 
 **Course Title:** Foundations in Statistics
 
-
 **Class Schedule:** *Please see TSoG eLearning for current course offerings and class schedule.*
 
 ----
@@ -39,19 +38,19 @@ In addition to this personal and professional growth, students at the Copernicus
 ## Student Outcomes
 Student Outcomes broadly represent the knowledge and skills that students are expected to attain in order to achieve the Program Educational Objectives at their current level of study. At the Copernicus level, these Student Outcomes are as follows:
 
->C1. *Knowledge of mathematical and computational terminology used to describe practical problems and their solutions.*
+>(C1) *Knowledge of mathematical and computational terminology used to describe practical problems and their solutions.*
 >
->C2. *Understand the tools and techniques used to find numerical solutions of mathematical problems.*
+>(C2) *Understand the tools and techniques used to find numerical solutions of mathematical problems.*
 >
->C3. *Understand analytical solutions of simple practical problems in science and engineering.*
+>(C3) *Understand analytical solutions of simple practical problems in science and engineering.*
 >
->C4. *Apply computational tools and techniques to solve practical problems in science and engineering.*
+>(C4) *Apply computational tools and techniques to solve practical problems in science and engineering.*
 >
->C5. *Apply statistics to quantitatively test a hypothesis using experimental data.*
+>(C5) *Apply statistics to quantitatively test a hypothesis using experimental data.*
 >
->C6. *Apply computational thinking methods to reduce simple tasks into algorithms.*
+>(C6) *Apply computational thinking methods to reduce simple tasks into algorithms.*
 >
->C7. *Understand modern professional communication and collaboration practices.*
+>(C7) *Understand modern professional communication and collaboration practices.*
 
 ----
 ## Course Learning Objectives
