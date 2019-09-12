@@ -8,16 +8,16 @@
 **Class Schedule:** *Please see TSoG eLearning for current course offerings and class schedule.*
 
 ----
-## Course Creator Information
-**Name / Availability:** 
+## Instructor Information
+**Course Creator:** 
 
 Steven J. Foland, PhD
 	
-Office Hours: Saturday, 10:00am - 1:00pm CDT (UTC-5)
-	
-Location: TSoGtv (TSoG.tv Channel 1)
+**Instructor:**
 
-*Actively enrolled TSoG students should contact Dr. Foland through an appropriate Discord channel such as #copernicus. You may @ mention him, but do not send direct messages to course creators.*
+*Please see TSoG eLearning for current instructor name / availability.*
+
+*Actively enrolled TSoG students should contact course creators / instructors through an appropriate Discord channel such as #copernicus. You may @ mention them, but do not send direct (private) messages.*
 
 ----
 
